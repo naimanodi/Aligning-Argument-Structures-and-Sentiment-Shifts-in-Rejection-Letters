@@ -1,0 +1,3 @@
+The analysis of argument segmentation combined with sentiment analysis in rejection letters has shown that a sentiment shift from positive to negative in preceding sentences is often associated with a *polite rejection*. Additionally, other sentiment changes were linked to transitions in the argument structure, such as the *justification of rejection* or *encouragement following rejection*. These findings are consistent with our predictions.
+
+Future work will focus on evaluating and improving the segmentation process, which currently relies solely on punctuation. Implementing a more fine-grained segmentation approach will lead to a more reliable analysis, independent of sentence boundaries, offering deeper insights into the topic.
