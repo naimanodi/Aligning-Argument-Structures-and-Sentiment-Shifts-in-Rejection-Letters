@@ -21,3 +21,7 @@ In addition to this primary hypothesis, we identified other potential relationsh
 (4) Sentiment Change; Negative → Positive: This relationship suggests a shift towards encouragement, where the letter may conclude with positive remarks aimed at motivating the candidate to pursue future opportunities or to recognize their potential. This type of communication could play a crucial role in mitigating the emotional impact of the rejection.
 
 We observed that most rejection letters followed a consistent structure: a polite introduction with positive sentiment, followed by a negative rejection statement, and often concluding with positive encouragement for future applications. By systematically analyzing these sentiment transitions within the rejection letters, we were able to uncover deeper insights into how organizations use the structure of formal rejections communications. In the future, our approach could be enhanced by use of the trained ML models that would consider more contextual features.
+
+
+# Dataset
+The dataset has been collected from https://www.kaggle.com/. Here is the direct link to the dataset: https://www.kaggle.com/datasets/sethpoly/application-rejection-emails
